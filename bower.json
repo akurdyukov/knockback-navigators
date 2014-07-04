@@ -26,9 +26,9 @@
     "PathJS"
   ],
   "dependencies": {
-    "knockback": "~0.18.0",
-    "knockout": "~3.0.0",
-    "backbone": "~1.1.0",
-    "underscore": "~1.5.0"
+    "knockback": ">=0.18.0",
+    "knockout": ">=3.0.0",
+    "backbone": ">=1.1.0",
+    "underscore": ">=1.5.0"
   }
 }
